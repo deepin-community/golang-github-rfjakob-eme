@@ -1,0 +1,2 @@
+Test-Command: go test -v testing
+Depends: @, @builddeps@
